@@ -539,6 +539,10 @@ label {
     display: block;
 }
 
+.variation-selector li a:hover {
+    color: #666;
+}
+
 .variation-selector li {
     display: inline-block;
     font-size: 18px;
@@ -548,7 +552,7 @@ label {
 }
 
 #selected-size {
-    border: thin solid black;
+    border: thin solid #666;
     border-radius: 50%;
 }
 
@@ -557,7 +561,7 @@ label {
 }
 
 #selected-color {
-    border: thin solid black;
+    border: thin solid #666;
     border-radius: 100px;
 }
 
