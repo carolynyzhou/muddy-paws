@@ -473,6 +473,10 @@ footer {
 
 /***************************** PRODUCT DETAILS start ******************************/
 
+#product-container {
+    margin-top: 20px;
+}
+
 .product-top #left-column {
     float: left;
     width: 40%;
